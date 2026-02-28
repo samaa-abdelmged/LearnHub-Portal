@@ -1,0 +1,17 @@
+import { Component, signal } from '@angular/core';
+import { RouterOutlet } from '@angular/router';
+
+// Standalone components
+import { HeaderComponent } from './components/header/header';
+import { FooterComponent } from './components/footer/footer';
+
+@Component({
+  selector: 'app-root',
+  standalone: true,
+  imports: [RouterOutlet, HeaderComponent, FooterComponent],
+  templateUrl: './app.html',
+  styleUrls: ['./app.css']
+})
+export class AppComponent {
+  protected readonly title = signal('Student Department Project');
+}

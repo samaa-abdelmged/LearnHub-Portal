@@ -1,0 +1,18 @@
+<nav class="bg-blue-600 text-white p-4 flex justify-between">
+    <div class="flex space-x-4">
+        <a routerLink="/" class="hover:underline">Home</a>
+        <a routerLink="/students/add" *ngIf="authService.isLoggedIn()" class="hover:underline">Add Student</a>
+        <a routerLink="/departments/add" *ngIf="authService.isLoggedIn()" class="hover:underline">Add Department</a>
+    </div>
+
+    <div class="flex space-x-4">
+        <span *ngIf="authService.isLoggedIn()">
+            Welcome, {{ authService.getUsername() }}!
+            <button (click)="logout()" class="bg-red-500 px-2 py-1 rounded">Logout</button>
+        </span>
+        <span *ngIf="!authService.isLoggedIn()">
+            <a routerLink="/login" class="hover:underline">Login</a>
+            <a routerLink="/register" class="hover:underline">Register</a>
+        </span>
+    </div>
+</nav>

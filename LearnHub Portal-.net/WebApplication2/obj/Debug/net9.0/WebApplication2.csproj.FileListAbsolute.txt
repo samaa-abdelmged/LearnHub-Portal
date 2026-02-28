@@ -1,0 +1,320 @@
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\appsettings.Development.json
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\appsettings.json
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\WebApplication2.staticwebassets.endpoints.json
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\WebApplication2.exe
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\WebApplication2.deps.json
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\WebApplication2.runtimeconfig.json
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\WebApplication2.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\WebApplication2.pdb
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Azure.Core.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Azure.Identity.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Humanizer.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.ClientModel.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.CodeDom.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Memory.Data.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.csproj.AssemblyReference.cache
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.AssemblyInfoInputs.cache
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.AssemblyInfo.cs
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.csproj.CoreCompileInputs.cache
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\scopedcss\bundle\WebApplication2.styles.css
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\staticwebassets.build.json
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\staticwebassets.development.json
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebAppli.0DB3FC1A.Up2Date
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\refint\WebApplication2.dll
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.pdb
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.genruntimeconfig.cache
+D:\FULL STACK .NET ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\ref\WebApplication2.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\appsettings.Development.json
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\appsettings.json
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\WebApplication2.staticwebassets.endpoints.json
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\WebApplication2.exe
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\WebApplication2.deps.json
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\WebApplication2.runtimeconfig.json
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\WebApplication2.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\WebApplication2.pdb
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Azure.Core.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Azure.Identity.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Humanizer.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.ClientModel.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.CodeDom.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Memory.Data.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.csproj.AssemblyReference.cache
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.AssemblyInfoInputs.cache
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.AssemblyInfo.cs
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.csproj.CoreCompileInputs.cache
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.sourcelink.json
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\scopedcss\bundle\WebApplication2.styles.css
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\staticwebassets.build.json
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\staticwebassets.development.json
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\swae.build.ex.cache
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebAppli.0DB3FC1A.Up2Date
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\refint\WebApplication2.dll
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.pdb
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.genruntimeconfig.cache
+D:\full stack ITI\Angular\Day5\project\WebApplication2\WebApplication2\obj\Debug\net9.0\ref\WebApplication2.dll

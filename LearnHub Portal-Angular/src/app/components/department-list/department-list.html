@@ -1,0 +1,23 @@
+<h2 class="text-2xl font-bold mb-4">Departments</h2>
+
+<table class="w-full border border-gray-300">
+    <thead>
+        <tr class="bg-gray-200">
+            <th class="p-2 border">ID</th>
+            <th class="p-2 border">Name</th>
+            <th class="p-2 border">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let department of departments">
+            <td class="p-2 border">{{ department.id }}</td>
+            <td class="p-2 border">{{ department.name }}</td>
+            <td class="p-2 border">
+                <button (click)="editDepartment(department.id)"
+                    class="bg-yellow-400 px-2 py-1 rounded mr-2">Edit</button>
+                <button (click)="deleteDepartment(department.id)"
+                    class="bg-red-500 px-2 py-1 rounded text-white">Delete</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
