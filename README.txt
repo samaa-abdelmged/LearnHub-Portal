@@ -1,199 +1,144 @@
----
+Student & Department Management System – Full Stack (.NET & Angular)
 
-# Student & Department Management System – Full Stack (.NET & Angular)
+A Full Stack Web Application built using ASP.NET Core Web API for the backend and Angular (TypeScript) for the frontend.
+The system allows users to register, login, and manage students and departments while demonstrating JWT Authentication, RESTful APIs, and modern web development practices.
 
-A **Full Stack Web Application** built using **ASP.NET Core Web API** for the backend and **Angular (TypeScript)** for the frontend.
-The system allows users to **register, login, and manage students and departments** while demonstrating **JWT Authentication, RESTful APIs, and modern web development practices**.
+Technologies Used:
 
----
+Frontend:
+Framework: Angular
+Language: TypeScript
+Styling: CSS3, Bootstrap
+Tools: Angular CLI, RxJS, HttpClient
 
-# 🚀 Technologies Used
+Backend:
+Framework: ASP.NET Core Web API
+ORM: Entity Framework Core
+Database: SQL Server
+Authentication: JWT Authentication
+Security: BCrypt Password Hashing
 
-## Frontend
+Development Tools:
+Swagger
+Postman
+Git & GitHub
+Visual Studio / VS Code
 
-* **Framework:** Angular
-* **Language:** TypeScript
-* **Styling:** CSS3, Bootstrap
-* **Tools:** Angular CLI, RxJS, HttpClient
+Key Features:
+User Registration & Login with JWT Authentication
+Role-Based Authorization (Admin / User)
+Full CRUD operations for Students
+Full CRUD operations for Departments
+View students with their departments
+View departments with their students
+Angular frontend consuming RESTful APIs
+Entity Framework Core handling database relationships
 
-## Backend
-
-* **Framework:** ASP.NET Core Web API
-* **ORM:** Entity Framework Core
-* **Database:** SQL Server
-* **Authentication:** JWT Authentication
-* **Security:** BCrypt Password Hashing
-
-## Development Tools
-
-* Swagger
-* Postman
-* Git & GitHub
-* Visual Studio / VS Code
-
----
-
-# ✨ Key Features
-
-* User **Registration & Login** with JWT Authentication
-* **Role-Based Authorization** (Admin / User)
-* Full **CRUD operations** for Students
-* Full **CRUD operations** for Departments
-* View **students with their departments**
-* View **departments with their students**
-* Angular frontend consuming RESTful APIs
-* Entity Framework Core handling database relationships
-
----
-
-# 🏗 Project Structure
-
-```
+Project Structure:
 Student-Department-FullStack
-│
-├── frontend (Angular)
-│   ├── src/app
-│   │   ├── components
-│   │   ├── services
-│   │   └── models
-│   │
-│   └── angular.json
-│
-├── backend (.NET)
-│   ├── Controllers
-│   │   ├── AuthController.cs
-│   │   ├── StudentController.cs
-│   │   └── DepartmentController.cs
-│   │
-│   ├── Models
-│   │   ├── User.cs
-│   │   ├── Student.cs
-│   │   └── Department.cs
-│   │
-│   ├── Data
-│   │   └── AppDbContext.cs
-│   │
-│   └── DTOs
-```
+frontend (Angular)
+src/app
+components
+services
+models
 
----
+backend (.NET):
+Controllers
+AuthController.cs
+StudentController.cs
+DepartmentController.cs
 
-# 🗄 Database Design
+Models:
+User.cs
+Student.cs
+Department.cs
 
-## User
+Data:
+AppDbContext.cs
 
-* Id
-* Username
-* PasswordHash
-* Role
+DTOs:
 
-## Student
+Database Design:
+User:
+Id
+Username
+PasswordHash
+Role
 
-* Id
-* Name
-* Age
-* DepartmentId
+Student:
+Id
+Name
+Age
+DepartmentId
 
-## Department
+Department:
+Id
+Name
+Contains multiple Students
 
-* Id
-* Name
-* Contains multiple Students
+API Endpoints:
 
----
+Authentication:
+POST /api/auth/register
+Register new user
 
-# 🔌 API Endpoints
+POST /api/auth/login
+Login user
 
-## Authentication
+Students:
+GET /api/student
+Get all students
 
-| Method | Endpoint           | Description       |
-| ------ | ------------------ | ----------------- |
-| POST   | /api/auth/register | Register new user |
-| POST   | /api/auth/login    | Login user        |
+GET /api/student/{id}
+Get student by id
 
----
+POST /api/student
+Create student
 
-## Students
+PUT /api/student/{id}
+Update student
 
-| Method | Endpoint          | Description       |
-| ------ | ----------------- | ----------------- |
-| GET    | /api/student      | Get all students  |
-| GET    | /api/student/{id} | Get student by id |
-| POST   | /api/student      | Create student    |
-| PUT    | /api/student/{id} | Update student    |
-| DELETE | /api/student/{id} | Delete student    |
+DELETE /api/student/{id}
+Delete student
 
----
+Departments:
+GET /api/department
+Get all departments
 
-## Departments
+GET /api/department/{id}
+Get department by id
 
-| Method | Endpoint             | Description          |
-| ------ | -------------------- | -------------------- |
-| GET    | /api/department      | Get all departments  |
-| GET    | /api/department/{id} | Get department by id |
-| POST   | /api/department      | Create department    |
-| PUT    | /api/department/{id} | Update department    |
-| DELETE | /api/department/{id} | Delete department    |
+POST /api/department
+Create department
 
----
+PUT /api/department/{id}
+Update department
 
-# ⚙️ How to Run the Project
+DELETE /api/department/{id}
+Delete department
 
-## Backend
+Future Improvements:
+Role-based UI in Angular
+Pagination & filtering for tables
+Form validation using Angular Reactive Forms
+Unit Testing (xUnit & Jasmine)
+Real-time notifications using SignalR
+Logging with Serilog
 
-```bash
-cd backend
-dotnet restore
-dotnet ef database update
-dotnet run
-```
-
-Swagger will run on:
-
-```
-https://localhost:xxxx/swagger
-```
-
----
-
-## Frontend
-
-```bash
-cd frontend
-npm install
-ng serve
-```
-
-Application runs on:
-
-```
-http://localhost:4200
-```
-
----
-
-# 🔮 Future Improvements
-
-* Role-based UI in Angular
-* Pagination & filtering for tables
-* Form validation using Angular Reactive Forms
-* Unit Testing (xUnit & Jasmine)
-* Real-time notifications using SignalR
-* Logging with Serilog
-
----
-
-# 👩‍💻 Developer
-
-**Samaa Abdelmged Roshdy**
+Developer:
+Samaa Abdelmged Roshdy
 Full Stack .NET / Angular Developer
 
-📧 [samaaabdelmged@gmail.com](mailto:samaaabdelmged@gmail.com)
-📱 +20 101 450 4030
+Email
+[samaaabdelmged@gmail.com]
 
-🔗 LinkedIn
-[https://linkedin.com/in/samaa-abdelmged](https://linkedin.com/in/samaa-abdelmged)
+Phone
++20 101 450 4030
 
-💻 GitHub
-[https://github.com/samaa-abdelmged](https://github.com/samaa-abdelmged)
+LinkedIn
+[https://linkedin.com/in/samaa-abdelmged]
+
+GitHub
+[https://github.com/samaa-abdelmged]
+
 
